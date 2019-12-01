@@ -8,9 +8,7 @@ This dataset contains counts and rates (per 10,000 residents) of asthma (ICD9­C
 
 #### **Asthma ED Visit Rates**
 
-https://data.chhs.ca.gov/dataset/asthma­ed­visit­rates­lghc­indicator­07/resource/781708cb­7b2
-
-5­4967­b760­54b2a4b8cfed
+https://data.chhs.ca.gov/dataset/asthma-ed-visit-rates-lghc-indicator-07/resource/781708cb-7b25-4967-b760-54b2a4b8cfed
 
 #### **Questions to be answered:**
 
